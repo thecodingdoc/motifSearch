@@ -1,6 +1,6 @@
 # motifSearch
 
-Author:  Dario Ghersi (dghersi[at]omaha.edu)
+Author:  Dario Ghersi (dghersi[at]unomaha.edu)
 
 A GUI program written in ```Python/QT4``` that calculates gene family distributions and clonotypes for CDR regions that match a given motif.
 The program supports basic regular expression pattern matching and requires a tab-separated input file with deep sequencing data.
